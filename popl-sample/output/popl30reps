@@ -1,0 +1,278 @@
+
+--------------------
+
+Cedric Fournet
+A: Andrew D. Gordon
+A: Martin Abadi
+A: Karthikeyan Bhargavan
+A: Georges Gonthier
+A: Gordon D. Plotkin
+
+--------------------
+
+Frank Pfenning
+A: Sungwoo Park
+A: Didier Remy
+A: John C. Mitchell
+A: Davide Ancona
+A: Elena Zucca
+
+--------------------
+
+Amir M. Ben-Amram
+A: Amr Sabry
+A: Kevin Hammond
+A: Neil D. Jones
+A: Andrea Asperti
+A: Samir Genaim
+
+--------------------
+
+Naoki Kobayashi 0001
+A: Hiroshi Unno
+A: Tachio Terauchi
+A: Atsushi Igarashi
+A: Jeffrey Mark Siskind
+A: Barak A. Pearlmutter
+
+--------------------
+
+Andrew Kennedy
+A: Nick Benton
+A: Don Syme
+A: Patricia Johann
+A: Anindya Banerjee
+A: Neelakantan R. Krishnaswami
+
+--------------------
+
+Giuseppe Castagna
+A: Philip Wadler
+A: Jerome Simeon
+A: Jeremy G. Siek
+A: Janis Voigtlander
+A: Michele Bugliesi
+
+--------------------
+
+Nobuko Yoshida
+A: Davide Sangiorgi
+A: Marco Carbone
+A: Robin Milner
+A: Xinyu Feng
+A: Kohei Honda
+
+--------------------
+
+Cormac Flanagan
+A: Andrew M. Pitts
+A: Yannis Smaragdakis
+A: Ondrej Lhotak
+A: Steffen Losch
+A: Thomas H. Austin
+
+--------------------
+
+Thomas A. Henzinger
+A: Ranjit Jhala
+A: Rupak Majumdar
+A: Andrey Rybalchenko
+A: Patrick Maxim Rondon
+A: Ashutosh Gupta
+
+--------------------
+
+Francois Pottier
+A: Sam Staton
+A: Paul Blain Levy
+A: Benjamin Delaware
+A: Bruno C. d. S. Oliveira
+A: Tom Schrijvers
+
+--------------------
+
+Derek Dreyer
+A: Umut A. Acar
+A: Amal Ahmed
+A: Chung-Kil Hur
+A: Georg Neis
+A: Andreas Rossberg
+
+--------------------
+
+Suresh Jagannathan
+A: Viktor Vafeiadis
+A: Matthew Fluet
+A: Jan Vitek
+A: Ruy Ley-Wild
+A: Aleksandar Nanevski
+
+--------------------
+
+Peter Sewell
+A: Susmit Sarkar
+A: Francesco Zappa Nardelli
+A: Mark Batty
+A: Scott Owens
+A: Magnus O. Myreen
+
+--------------------
+
+Hans-Juergen Boehm
+A: Sarita V. Adve
+A: Tatiana Shpeisman
+A: Leaf Petersen
+A: Jeremy Manson
+A: William Pugh
+
+--------------------
+
+P. Madhusudan
+A: Rajeev Alur
+A: Pavol Cerny
+A: Swarat Chaudhuri
+A: Xiaokang Qiu
+A: Gennaro Parlato
+
+--------------------
+
+Simon J. Gay
+A: Nils Gesbert
+A: Luis Caires
+A: Joao Costa Seco
+A: Chandrasekhar Boyapati
+A: Karl Naden
+
+--------------------
+
+Benjamin C. Pierce
+A: Martin Hofmann 0001
+A: Alan Schmitt
+A: Marco Gaboardi
+A: Daniel Wagner
+A: J. Nathan Foster
+
+--------------------
+
+Simon L. Peyton Jones
+A: Manuel M. T. Chakravarty
+A: Gabriele Keller
+A: Koen Claessen
+A: Simon Marlow
+A: Dimitrios Vytiniotis
+
+--------------------
+
+Helmut Seidl
+A: Markus Muller-Olm
+A: Chen Ding
+A: Noah D. Goodman
+A: Jeanne Ferrante
+A: Martin D. Schwarz
+
+--------------------
+
+Rastislav Bodik
+A: Viktor Kuncak
+A: Martin C. Rinard
+A: Trishul M. Chilimbi
+A: Kapil Vaswani
+A: Ali Sinan Koksal
+
+--------------------
+
+Sumit Gulwani
+A: George C. Necula
+A: David Monniaux
+A: Bill McCloskey
+A: Westley Weimer
+A: Feng Zhou
+
+--------------------
+
+Martin Odersky
+A: Kunle Olukotun
+A: Tiark Rompf
+A: Arvind K. Sujeeth
+A: Nada Amin
+A: Kevin J. Brown
+
+--------------------
+
+Andrew W. Appel
+A: Jerome Vouillon
+A: Zhong Shao
+A: Aquinas Hobor
+A: Paul-Andre Mellies
+A: Hayo Thielecke
+
+--------------------
+
+Shaz Qadeer
+A: Shuvendu K. Lahiri
+A: Sriram Sankaranarayanan
+A: Aarti Gupta
+A: Brian Hackett
+A: Radu Rugina
+
+--------------------
+
+Joseph Gil
+A: Marcelo P. Fiore
+A: Yoav Zibin
+A: Paul Hudak
+A: Jaswinder Pal Singh
+A: Zhijing G. Mou
+
+--------------------
+
+Stephanie Weirich
+A: Steve Zdancewic
+A: Jianzhou Zhao
+A: Santosh Nagarakatte
+A: Milo M. K. Martin
+A: Adam Chlipala
+
+--------------------
+
+Jeffrey S. Foster
+A: Michael Hicks
+A: Avik Chaudhuri
+A: Iulian Neamtiu
+A: Michael Norrish
+A: Aseem Rastogi
+
+--------------------
+
+Xavier Leroy
+A: Norman Ramsey
+A: Gabriel Dos Reis
+A: Tahina Ramananandro
+A: Joao Dias
+A: Jean-Baptiste Tristan
+
+--------------------
+
+Mayur Naik
+A: Mooly Sagiv
+A: Alex Aiken
+A: Ghila Castelnuovo
+A: Percy Liang
+A: Omer Tripp
+
+--------------------
+
+Dan R. Ghica
+A: Shriram Krishnamurthi
+A: Michael D. Adams
+A: Tony Hoare
+A: Rui Vieira
+A: Ricardo Rocha
+
+--------------------
+
+Vertex Count: 1400
+Edge Count: 5162
+Number of Reps: 180
+Avg Vertex Rep Distance: 1.29990069513
+Unrepresented Vertices: 213
